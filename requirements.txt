@@ -4,7 +4,6 @@ scikit_image==0.13.0
 six==1.10.0
 numpy==1.11.3
 matplotlib==2.1.1
-pandas==0.19.2
 Werkzeug==0.12.2
 tornado==4.5.2
 h5py==2.7.0
