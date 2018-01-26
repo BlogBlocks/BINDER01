@@ -15,4 +15,4 @@ pydot==1.2.4
 pydotplus==2.0.2
 python_gflags==3.1.2
 scikit_learn==0.19.1
-skimage-image==0.0
+scikit-image==0.0
